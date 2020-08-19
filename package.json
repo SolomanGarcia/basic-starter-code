@@ -1,0 +1,19 @@
+{
+  "name": "basic-starter-code",
+  "version": "1.0.0",
+  "description": "basic starter code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SolomanGarcia/basic-starter-code.git"
+  },
+  "author": "Soloman Garcia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SolomanGarcia/basic-starter-code/issues"
+  },
+  "homepage": "https://github.com/SolomanGarcia/basic-starter-code#readme"
+}
