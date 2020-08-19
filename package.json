@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/SolomanGarcia/basic-starter-code/issues"
   },
-  "homepage": "https://github.com/SolomanGarcia/basic-starter-code#readme"
+  "homepage": "https://github.com/SolomanGarcia/basic-starter-code#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
 }
